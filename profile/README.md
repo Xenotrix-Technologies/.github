@@ -57,7 +57,7 @@ We're open to collaboration in:
 
 ## 📫 Contact Us
 
-- 🌐 Website: [Xenotune](https://github.com/Xenotrix-Technologies/Xenotune)
+- 🌐 Website: [Xenotune](https://xenotrix-technologies.github.io/Xenotune/)
 - 📧 Email: xenotrix.technologies@gmail.com
 - 💬 LinkedIn: [Xenotrix Technologies](https://www.linkedin.com/company/xenotrix-technologies)
 - 🔊 Discord / WhatsApp: *Available on request*
