@@ -55,14 +55,38 @@ We're open to collaboration in:
 - SaaS and developer utilities
 - Internship programs and tech talks
 
+## 🧑‍💻 Contributing
+
+We welcome contributions from developers, students, and tech enthusiasts! Before contributing, please follow these guidelines:
+
+### 📜 Contribution Rules
+
+1. **Fork the repository** and clone it locally before making changes.
+2. All contributions must be made through **pull requests (PRs)**.
+3. Write clean, readable, and well-documented code.
+4. Respect the existing code style and structure.
+5. For major changes, open an issue first to discuss your idea.
+6. Always test your code before submitting.
+7. Avoid submitting broken, untested, or irrelevant code.
+8. Be respectful in communication — maintain a friendly and inclusive environment.
+
+### 📂 Areas You Can Contribute To
+
+- Feature enhancements
+- Bug fixes
+- Documentation improvements
+- UI/UX design (for frontend projects)
+- Code optimization and refactoring
+
+> 📎 **GitHub Repo**: [github.com/Xenotrix-Technologies](https://github.com/Xenotrix-Technologies/repositories)
+
 ## 📫 Contact Us
 
-- 🌐 Website: [Xenotune](https://xenotrix-technologies.github.io/Xenotune/)
+- 🌐 Website: [Xenotune](https://xenotrix-technologies.github.io/Xenotune/) orginal website under maintanance
 - 📧 Email: xenotrix.technologies@gmail.com
 - 💬 LinkedIn: [Xenotrix Technologies](https://www.linkedin.com/company/xenotrixtech/)
-- 🔊 Discord / WhatsApp: *Available on request*
+- 🔊 WhatsApp: *Available on request*
 
 ---
 
 > 🧬 _"We code the future."_ – Team Xenotrix
-
