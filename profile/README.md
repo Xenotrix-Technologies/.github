@@ -83,7 +83,7 @@ We welcome contributions from developers, students, and tech enthusiasts! Before
 ## 📫 Contact Us
 
 - 🌐 Website: [Xenotune](https://xenotrix-technologies.github.io/Xenotune/) orginal website under maintanance
-- 📧 Email: xenotrix.technologies@gmail.com
+- 📧 Email: xenotrixtech@gmail.com
 - 💬 LinkedIn: [Xenotrix Technologies](https://www.linkedin.com/company/xenotrixtech/)
 - 🔊 WhatsApp: *Available on request*
 
