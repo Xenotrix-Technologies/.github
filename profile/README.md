@@ -3,7 +3,7 @@
 Welcome to **Xenotrix Technologies**, a forward-thinking tech community focused on building cutting-edge products, delivering smart services, and empowering developers, students, and innovators through AI, automation, and modern software engineering.
 
 <p align="center">
-  <img src=".github/profile/banner.png" alt="Xenotrix Technologies Banner" width="100%" />
+  <img src="[.github/profile/banner.png](https://github.com/Xenotrix-Technologies/.github/blob/main/profile/banner.png)" alt="Xenotrix Technologies Banner" width="100%" />
 </p>
 
 ## 🚀 Who We Are
