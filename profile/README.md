@@ -30,7 +30,7 @@ To build a tech-driven ecosystem where ideas transform into intelligent solution
 
 ## 🌐 Products
 
-### 🎧 [Xenotune](https://github.com/Xenotrix-Technologies/Xenotune)
+### 🎧 [Xenotune](https://xenotune.xenotrix.in)
 > AI-generated background music engine for deep focus, relaxation, and sleep.
 
 - Built with: `Python`, `FastAPI`, `music21`, `FluidSynth`, `pydub`
