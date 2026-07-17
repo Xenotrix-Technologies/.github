@@ -82,7 +82,7 @@ We welcome contributions from developers, students, and tech enthusiasts! Before
 
 ## 📫 Contact Us
 
-- 🌐 Website: [Xenotrix](http://www.xenotrix.in)
+- 🌐 Website: [Xenotrix](https://xenotrix.in)
 - 📧 Email: xenotrixtech@gmail.com
 - 💬 LinkedIn: [Xenotrix Technologies](https://www.linkedin.com/company/xenotrixtech/)
 - 🔊 WhatsApp: *Available on request*
